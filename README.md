@@ -1,0 +1,2 @@
+# nuxtGenerateWeb
+nuxt Generate Website
